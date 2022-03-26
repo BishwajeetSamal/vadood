@@ -572,10 +572,12 @@ width: 50%;
   
   .topnav a:hover {
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    /* color: rgb(255, 255, 255); */
+    
   }
   
   .active {
     background-color: #fafafa;
     color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
   }
